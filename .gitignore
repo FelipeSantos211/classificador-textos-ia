@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Dados sensíveis (descomente se necessário)
+# data/*.csv
+
+# Distribuição / Empacotamento
+build/
+dist/
+*.egg-info/

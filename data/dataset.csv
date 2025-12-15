@@ -1,0 +1,621 @@
+texto,label
+"Ganhe dinheiro rápido agora",spam
+"Reunião marcada para amanhã",nao_spam
+"Oferta imperdível clique aqui",spam
+"Vamos estudar Python hoje",nao_spam
+"Você ganhou um prêmio incrível",spam
+"Pode me ligar mais tarde",nao_spam
+"Promoção exclusiva só hoje",spam
+"Entrega confirmada para amanhã",nao_spam
+"Trabalhe de casa e ganhe muito",spam
+"Relatório final está pronto",nao_spam
+"Seu cartão foi bloqueado clique aqui",spam
+"Aula cancelada hoje",nao_spam
+"Compre agora com 90% de desconto",spam
+"Vamos revisar o código juntos",nao_spam
+"Renda extra garantida sem esforço",spam
+"Lembrete da reunião semanal",nao_spam
+"Parabéns você foi selecionado",spam
+"Pode enviar o arquivo novamente",nao_spam
+"Empréstimo aprovado na hora",spam
+"Chegarei atrasado hoje",nao_spam
+"Última chance para faturar alto",spam
+"Confirme sua presença na entrevista",nao_spam
+"Invista pouco e ganhe muito",spam
+"Atividade de matemática para amanhã",nao_spam
+"PIX urgente preciso agora",spam
+"Mensagem recebida com sucesso",nao_spam
+"Curso online grátis por tempo limitado",spam
+"Prova adiada para sexta-feira",nao_spam
+"Ganhos automáticos todos os dias",spam
+"Vamos almoçar juntos hoje",nao_spam
+"Oferta secreta só para você",spam
+"Documento enviado por e-mail",nao_spam
+"Fique rico em poucos dias",spam
+"Atualização do sistema concluída",nao_spam
+"Trabalho fácil pagamento imediato",spam
+"Pode confirmar o horário da reunião",nao_spam
+"Promoção relâmpago aproveite agora",spam
+"Aula começa às 19h",nao_spam
+"Multiplique seu dinheiro rápido",spam
+"Arquivo salvo corretamente",nao_spam
+"Crédito liberado sem consulta",spam
+"Vamos estudar para a prova",nao_spam
+"Oferta válida somente hoje",spam
+"Te vejo amanhã cedo",nao_spam
+"Ganhe dinheiro apenas clicando",spam
+"Chamada marcada no Google Meet",nao_spam
+"Investimento seguro e garantido",spam
+"Pode revisar este texto",nao_spam
+"Promoção exclusiva para novos usuários",spam
+"Relatório precisa de ajustes",nao_spam
+"Renda passiva sem trabalhar",spam
+"Mensagem enviada ao cliente",nao_spam
+"Compre um leve dois grátis",spam
+"Reunião cancelada hoje",nao_spam
+"Lucro garantido em 24 horas",spam
+"Horário da entrevista confirmado",nao_spam
+"Oferta especial clique no link",spam
+"Entrega realizada com sucesso",nao_spam
+"Trabalhe pouco ganhe muito",spam
+"Vamos conversar depois",nao_spam
+"Dinheiro fácil sem experiência",spam
+"Backup concluído corretamente",nao_spam
+"Promoção limitada aproveite",spam
+"Projeto final entregue",nao_spam
+"Ganhe prêmios incríveis agora",spam
+"Revisão marcada para sexta",nao_spam
+"Renda extra automática",spam
+"Pode me avisar quando chegar",nao_spam
+"Oferta exclusiva imperdível",spam
+"Teste unitário passou",nao_spam
+"Dinheiro rápido garantido",spam
+"Aula prática hoje à noite",nao_spam
+"Crédito imediato aprovado",spam
+"Atualização concluída",nao_spam
+"Fature alto trabalhando online",spam
+"Chamada encerrada",nao_spam
+"Promoção especial hoje",spam
+"Arquivo anexado corretamente",nao_spam
+"Ganhos ilimitados agora",spam
+"Reunião adiada",nao_spam
+"Trabalho simples ganhos altos",spam
+"Vamos revisar o projeto",nao_spam
+"Oferta incrível só hoje",spam
+"Mensagem visualizada",nao_spam
+"Renda garantida sem risco",spam
+"Confirme o recebimento",nao_spam
+"Lucro fácil imediato",spam
+"Atividade entregue com sucesso",nao_spam
+"Dinheiro automático diário",spam
+"Nos falamos amanhã",nao_spam
+"Ganhe até 500 reais por dia sem sair de casa",spam
+"Reunião com o cliente confirmada",nao_spam
+"Oferta limitada para ganhar dinheiro fácil",spam
+"Vamos ajustar o código depois",nao_spam
+"Você foi premiado com um bônus especial",spam
+"Pode me enviar o link do repositório",nao_spam
+"Lucros garantidos com investimento online",spam
+"Aula de revisão hoje à tarde",nao_spam
+"Trabalhe online e tenha renda imediata",spam
+"Arquivo corrigido e reenviado",nao_spam
+"Promoção exclusiva para usuários selecionados",spam
+"Preciso falar com você rapidamente",nao_spam
+"Ganhos altos com pouco esforço",spam
+"Relatório aprovado pelo gerente",nao_spam
+"Multiplique sua renda em poucos dias",spam
+"Reunião encerrada com sucesso",nao_spam
+"Oferta secreta para ganhar dinheiro agora",spam
+"Atividade liberada na plataforma",nao_spam
+"Crédito pessoal disponível agora",spam
+"Vamos testar o sistema hoje",nao_spam
+"Renda extra confiável e rápida",spam
+"Pode confirmar o recebimento do email",nao_spam
+"Promoção incrível não perca",spam
+"A entrevista foi reagendada",nao_spam
+"Ganhe dinheiro com apenas um clique",spam
+"Subi as alterações no GitHub",nao_spam
+"Investimento seguro com retorno garantido",spam
+"Lembrete do prazo de entrega",nao_spam
+"Trabalhe pouco e lucre muito",spam
+"Aula prática cancelada hoje",nao_spam
+"Dinheiro rápido direto no PIX",spam
+"Pode revisar esse pull request",nao_spam
+"Oferta especial liberada para você",spam
+"Documentação atualizada",nao_spam
+"Ganhos automáticos sem risco",spam
+"Reunião marcada no calendário",nao_spam
+"Faça dinheiro online hoje mesmo",spam
+"Teste final aprovado",nao_spam
+"Promoção imperdível por tempo limitado",spam
+"Vamos organizar as tarefas",nao_spam
+"Renda diária garantida",spam
+"Arquivo salvo corretamente",nao_spam
+"Ganhe prêmios em dinheiro agora",spam
+"Pode me chamar quando estiver livre",nao_spam
+"Lucro rápido com método exclusivo",spam
+"Entrega confirmada pelo sistema",nao_spam
+"Oferta especial para novos membros",spam
+"Revisão de código agendada",nao_spam
+"Fature alto com renda online",spam
+"Aula extra liberada",nao_spam
+"Ganhos fáceis sem experiência",spam
+"Mensagem enviada com sucesso",nao_spam
+"Dinheiro garantido em 24 horas",spam
+"Vamos estudar para a prova",nao_spam
+"Oferta única não se repete",spam
+"Reunião de alinhamento amanhã",nao_spam
+"Renda automática trabalhando online",spam
+"Projeto aprovado pelo orientador",nao_spam
+"Ganhe dinheiro usando o celular",spam
+"Pode atualizar o status da tarefa",nao_spam
+"Lucro imediato sem burocracia",spam
+"Backup finalizado",nao_spam
+"Oferta exclusiva clique e confira",spam
+"Arquivo compartilhado com você",nao_spam
+"Renda fácil para qualquer pessoa",spam
+"Reunião final concluída",nao_spam
+"Dinheiro extra sem sair de casa",spam
+"Vamos revisar os requisitos",nao_spam
+"Sua conta será bloqueada por atividade suspeita",spam
+"Seu cartão foi bloqueado por segurança clique no link",spam
+"Detectamos uma tentativa de acesso irregular",spam
+"Atualize seus dados bancários imediatamente",spam
+"Confirme sua identidade para evitar o bloqueio da conta",spam
+"Pix suspeito detectado clique para cancelar",spam
+"Seu acesso foi temporariamente suspenso",spam
+"Falha na verificação da sua conta bancária",spam
+"Confirme agora seus dados para manter sua conta ativa",spam
+"Movimentação incomum detectada em sua conta",spam
+"Erro no processamento do pagamento clique aqui",spam
+"Sua conta será encerrada hoje se não atualizar",spam
+"Pagamento recusado por segurança confirme agora",spam
+"Bloqueio preventivo aplicado em sua conta",spam
+"Validação urgente necessária para sua conta",spam
+"Transferência suspeita identificada",spam
+"Acesso não autorizado detectado",spam
+"Conta comprometida ação imediata necessária",spam
+"Pix em análise confirme seus dados",spam
+"Seu banco identificou risco de fraude",spam
+"Seu extrato mensal já está disponível no aplicativo",nao_spam
+"Pagamento da fatura confirmado com sucesso",nao_spam
+"Compra realizada com sucesso no cartão",nao_spam
+"Seu limite foi atualizado conforme uso",nao_spam
+"Lembrete de vencimento da fatura amanhã",nao_spam
+"Transferência realizada com sucesso",nao_spam
+"Pix enviado com sucesso",nao_spam
+"Compra aprovada no cartão de crédito",nao_spam
+"Seu comprovante está disponível no app",nao_spam
+"Saldo atualizado após movimentação",nao_spam
+"Fatura fechada disponível para consulta",nao_spam
+"Pagamento recebido corretamente",nao_spam
+"Notificação de compra no débito",nao_spam
+"Seu informe de rendimentos está disponível",nao_spam
+"Agendamento de pagamento confirmado",nao_spam
+"Receba pagamento instantâneo sem taxa",spam
+"Projeto entregue dentro do prazo",nao_spam
+"Clique aqui para resgatar seu prêmio",spam
+"Confirmo minha participação no evento",nao_spam
+"Você tem uma herança não reclamada",spam
+"Deploy realizado com sucesso",nao_spam
+"Empréstimo sem consulta ao SPC aprovado",spam
+"Código revisado e aprovado",nao_spam
+"Ganhe iPhone clicando neste link",spam
+"Material de estudo disponível",nao_spam
+"Cartão virtual liberado agora",spam
+"Apresentação agendada para terça",nao_spam
+"Bitcoin grátis cadastre-se já",spam
+"Tarefa concluída conforme solicitado",nao_spam
+"Seu CPF está irregular regularize",spam
+"Sistema atualizado para nova versão",nao_spam
+"Receba mil reais por indicação",spam
+"Reunião de sprint às 14h",nao_spam
+"Divida zerada em um clique",spam
+"Prazo de entrega estendido",nao_spam
+"Trabalhe 2 horas ganhe 3 mil",spam
+"Relatório trimestral disponível",nao_spam
+"Você está pré-aprovado clique aqui",spam
+"Código compilado sem erros",nao_spam
+"Método comprovado de enriquecimento",spam
+"Vamos revisar a documentação",nao_spam
+"Pague menos impostos legalmente",spam
+"Pull request mesclado na main",nao_spam
+"Receba dinheiro sem investir nada",spam
+"Aula de reforço amanhã",nao_spam
+"Conta digital sem mensalidade aproveite",spam
+"Build passou em todos os testes",nao_spam
+"Lucro de 500% garantido",spam
+"Feedback do cliente recebido",nao_spam
+"Receba cashback ilimitado",spam
+"Código refatorado com sucesso",nao_spam
+"Oportunidade única de ganhar muito",spam
+"Sprint planning na segunda",nao_spam
+"Seu nome está negativado limpe agora",spam
+"Migração de dados concluída",nao_spam
+"Ganhe notebook respondendo pesquisa",spam
+"Reunião com stakeholders confirmada",nao_spam
+"Criptomoeda valoriza 1000% cadastre-se",spam
+"Análise de requisitos finalizada",nao_spam
+"Empréstimo consignado liberado imediatamente",spam
+"Commit enviado ao repositório",nao_spam
+"Oferta exclusiva cartão de crédito",spam
+"Daily meeting às 9h30",nao_spam
+"Receba restituição do IR adiantada",spam
+"Documentação técnica atualizada",nao_spam
+"Ganhe dinheiro assistindo vídeos",spam
+"Code review agendado",nao_spam
+"Você foi escolhido para testar produto",spam
+"Backup automático executado",nao_spam
+"Clique e receba benefício do governo",spam
+"Merge conflict resolvido",nao_spam
+"Financiamento sem entrada aprovado",spam
+"Homologação aprovada pelo QA",nao_spam
+"Método secreto de ganhar na loteria",spam
+"Servidor reiniciado com sucesso",nao_spam
+"Cartão platinum sem anuidade",spam
+"Retrospectiva da sprint sexta-feira",nao_spam
+"Suas dívidas podem ser perdoadas",spam
+"Deploy em produção realizado",nao_spam
+"Receba auxílio emergencial extra",spam
+"Feature implementada conforme ticket",nao_spam
+"Investimento com retorno em 7 dias",spam
+"Monitoramento de sistema ativo",nao_spam
+"Ganhe renda com aplicativo novo",spam
+"Integração com API funcionando",nao_spam
+"Seu cartão tem limite pré-aprovado",spam
+"Requisitos validados pelo PO",nao_spam
+"Trabalho remoto EUA salário em dólar",spam
+"Pipeline de CI/CD configurado",nao_spam
+"Receba reembolso de compras antigas",spam
+"Testes de integração passaram",nao_spam
+"Empréstimo via WhatsApp sem juros",spam
+"Refinamento do backlog amanhã",nao_spam
+"Ganhe PlayStation 5 grátis",spam
+"Ambiente de desenvolvimento pronto",nao_spam
+"Conta bancária digital sem taxas",spam
+"Scrum master enviou ata da reunião",nao_spam
+"Método comprovado para sair da pobreza",spam
+"Container Docker criado",nao_spam
+"Receba vale-compras de mil reais",spam
+"Banco de dados otimizado",nao_spam
+"Seu FGTS pode ser sacado hoje",spam
+"API REST documentada no Swagger",nao_spam
+"Ganhe carro zero cadastrando CPF",spam
+"Load balancer configurado",nao_spam
+"Empréstimo sem comprovação de renda",spam
+"Kubernetes cluster funcionando",nao_spam
+"Crédito de 50 mil liberado urgente",spam
+"Logs de aplicação analisados",nao_spam
+"Receba benefício trabalhista esquecido",spam
+"Microserviço implementado",nao_spam
+"Você ganhou na mega-sena confirme",spam
+"Cache configurado corretamente",nao_spam
+"Oportunidade de franquia digital",spam
+"Performance do sistema melhorada",nao_spam
+"Receba seguro desemprego extra",spam
+"Certificado SSL renovado",nao_spam
+"Cartão internacional sem análise",spam
+"Webhook configurado e testado",nao_spam
+"Ganhe dinheiro compartilhando links",spam
+"Variáveis de ambiente definidas",nao_spam
+"Curso completo grátis certificado",spam
+"GraphQL endpoint funcionando",nao_spam
+"Receba pensão não sacada",spam
+"Autenticação JWT implementada",nao_spam
+"Seu perfil foi selecionado prêmio",spam
+"Message queue processando",nao_spam
+"Dinheiro esquecido no banco resgate",spam
+"Redis cache operacional",nao_spam
+"Negócio próprio sem investimento inicial",spam
+"Elasticsearch indexando dados",nao_spam
+"Crédito rural liberado online",spam
+"Nginx reverse proxy ativo",nao_spam
+"Ganhe tablet respondendo quiz",spam
+"MongoDB cluster sincronizado",nao_spam
+"Receba adiantamento do 13º salário",spam
+"Terraform scripts validados",nao_spam
+"Empréstimo com taxa zero porcento",spam
+"CloudFormation stack criada",nao_spam
+"Trabalhe como digitador remoto",spam
+"Lambda function deployada",nao_spam
+"Seu PIX tem dinheiro não resgatado",spam
+"S3 bucket configurado",nao_spam
+"Renda extra avaliando produtos",spam
+"RDS instance em execução",nao_spam
+"Cartão virtual imediato sem consulta",spam
+"EC2 auto-scaling ativo",nao_spam
+"Ganhe viagem internacional grátis",spam
+"CloudWatch alarms configurados",nao_spam
+"Método infalível de trading",spam
+"VPC network configurada",nao_spam
+"Receba restituição de taxas pagas",spam
+"IAM roles aplicadas",nao_spam
+"Negócio lucrativo com dropshipping",spam
+"ECS cluster rodando",nao_spam
+"Empréstimo entre particulares aprovado",spam
+"Route53 DNS propagado",nao_spam
+"Ganhe smart TV cadastrando email",spam
+"SQS queue processando mensagens",nao_spam
+"Você tem direito a indenização trabalhista",spam
+"SNS notifications ativas",nao_spam
+"Criptomoeda nova valorização explosiva",spam
+"DynamoDB table criada",nao_spam
+"Receba aposentadoria antecipada",spam
+"CodePipeline executando",nao_spam
+"Curso de trader profissional grátis",spam
+"Elastic Beanstalk deployado",nao_spam
+"Cartão de crédito sem limite",spam
+"API Gateway configurado",nao_spam
+"Ganhe airfryer clicando aqui",spam
+"Amplify app publicada",nao_spam
+"Método garantido de ganhar no poker",spam
+"CloudFront CDN ativo",nao_spam
+"Receba vale-gás do governo",spam
+"Cognito user pool criado",nao_spam
+"Trabalhe como avaliador de apps",spam
+"Secrets Manager configurado",nao_spam
+"Seu CPF liberado para empréstimo",spam
+"Parameter Store atualizado",nao_spam
+"Ganhe dinheiro curtindo fotos",spam
+"X-Ray tracing habilitado",nao_spam
+"Investimento em energia solar lucrativo",spam
+"Step Functions workflow ativo",nao_spam
+"Receba bônus do Bolsa Família",spam
+"EventBridge rules configuradas",nao_spam
+"Franquia de sucesso sem experiência",spam
+"Glue ETL job rodando",nao_spam
+"Cartão Nubank Gold liberado",spam
+"Athena queries otimizadas",nao_spam
+"Ganhe videogame por tempo limitado",spam
+"Kinesis stream processando",nao_spam
+"Método exclusivo de afiliados",spam
+"Redshift cluster ativo",nao_spam
+"Receba auxílio-creche atrasado",spam
+"QuickSight dashboard criado",nao_spam
+"Trabalhe digitando CAPTCHA ganhe bem",spam
+"EMR cluster processando",nao_spam
+"Seu WhatsApp foi premiado",spam
+"SageMaker model treinado",nao_spam
+"Empréstimo para negativados liberado",spam
+"Comprehend analysis concluída",nao_spam
+"Ganhe celular Samsung grátis",spam
+"Rekognition processando imagens",nao_spam
+"Renda automática com robô trader",spam
+"Polly text-to-speech configurado",nao_spam
+"Receba PIS não sacado",spam
+"Lex chatbot deployado",nao_spam
+"Negócio online com Mercado Livre",spam
+"Transcribe job finalizado",nao_spam
+"Cartão adicional sem consulta",spam
+"Translate API funcionando",nao_spam
+"Ganhe geladeira respondendo formulário",spam
+"Forecast model treinado",nao_spam
+"Método comprovado de ganhar em apostas",spam
+"Personalize recommendations ativas",nao_spam
+"Receba abono salarial duplicado",spam
+"Macie scanning habilitado",nao_spam
+"Trabalhe testando jogos pagamento diário",spam
+"GuardDuty threat detection ativo",nao_spam
+"Seu nome foi sorteado milhões",spam
+"Inspector assessment rodando",nao_spam
+"Empréstimo urgente sem burocracia",spam
+"WAF rules aplicadas",nao_spam
+"Ganhe fone Bluetooth importado",spam
+"Shield DDoS protection ativa",nao_spam
+"Investimento seguro retorno garantido",spam
+"KMS encryption configurada",nao_spam
+"Receba vale-alimentação extra",spam
+"Certificate Manager cert renovado",nao_spam
+"Franquia digital modelo lucrativo",spam
+"Organizations OU estruturada",nao_spam
+"Cartão Mastercard Black aprovado",spam
+"Control Tower configurado",nao_spam
+"Ganhe smartwatch fitness",spam
+"Service Catalog products listados",nao_spam
+"Método secreto de renda passiva",spam
+"Config rules em compliance",nao_spam
+"Receba salário-família retroativo",spam
+"Systems Manager configurado",nao_spam
+"Trabalhe como moderador de conteúdo",spam
+"OpsWorks stacks deployadas",nao_spam
+"Seu Instagram ganhou verificação",spam
+"Trusted Advisor checks ok",nao_spam
+"Empréstimo com desconto em folha",spam
+"Support plan ativo",nao_spam
+"Ganhe máquina de lavar grátis",spam
+"Health Dashboard sem alertas",nao_spam
+"Negócio rentável com Amazon FBA",spam
+"Cost Explorer report gerado",nao_spam
+"Receba pensão alimentícia atrasada",spam
+"Budgets alerts configurados",nao_spam
+"Cartão pré-pago internacional grátis",spam
+"Savings Plans ativados",nao_spam
+"Ganhe drone profissional",spam
+"Reserved Instances compradas",nao_spam
+"Método inédito de marketing digital",spam
+"Spot Instances economizando",nao_spam
+"Receba restituição de plano de saúde",spam
+"Compute Optimizer recommendations",nao_spam
+"Trabalhe como revisor de textos",spam
+"Cost and Usage Report configurado",nao_spam
+"Seu CPF liberou crédito de 100 mil",spam
+"Billing alerts habilitados",nao_spam
+"Ganhe ar-condicionado clicando",spam
+"Free tier usage monitorado",nao_spam
+"Investimento forex com IA",spam
+"Tags para billing aplicadas",nao_spam
+"Receba ressarcimento de impostos",spam
+"Resource Groups organizados",nao_spam
+"Franquia de cosméticos sem investir",spam
+"Lighthouse scan completo",nao_spam
+"Cartão virtual para compras online",spam
+"Vulnerability scan finalizado",nao_spam
+"Ganhe curso completo de inglês",spam
+"Security audit aprovado",nao_spam
+"Método validado de ganhar em cripto",spam
+"Penetration test concluído",nao_spam
+"Receba gratificação natalina extra",spam
+"SAST analysis sem issues",nao_spam
+"Trabalhe legendando vídeos ganhe USD",spam
+"DAST testing finalizado",nao_spam
+"Seu e-mail foi sorteado prêmio milhonário",spam
+"Code quality metrics ok",nao_spam
+"Empréstimo pessoal taxa reduzida",spam
+"Technical debt identificado",nao_spam
+"Ganhe micro-ondas premium",spam
+"Refactoring sprint planejada",nao_spam
+"Negócio digital com Instagram",spam
+"Unit tests coverage 85%",nao_spam
+"Receba auxílio-doença retroativo",spam
+"Integration tests passando",nao_spam
+"Cartão de crédito consignado liberado",spam
+"E2E tests executados",nao_spam
+"Ganhe cafeteira expresso",spam
+"Smoke tests validados",nao_spam
+"Método exclusivo de day trade",spam
+"Regression tests ok",nao_spam
+"Receba reembolso de energia elétrica",spam
+"Performance tests rodando",nao_spam
+"Trabalhe como assistente virtual remoto",spam
+"Load tests concluídos",nao_spam
+"Seu Pix recebeu transferência suspeita confirme",spam
+"Stress tests finalizados",nao_spam
+"Ganhe TV 50 polegadas",spam
+"Security tests aprovados",nao_spam
+"Investimento imobiliário sem entrada",spam
+"Accessibility tests ok",nao_spam
+"Receba décimo quarto salário",spam
+"Usability tests agendados",nao_spam
+"Franquia lucrativa de alimentação",spam
+"A/B testing configurado",nao_spam
+"Cartão com cashback de 10%",spam
+"Feature flags implementadas",nao_spam
+"Ganhe console Xbox Series X",spam
+"Canary deployment ativo",nao_spam
+"Método comprovado de renda com blog",spam
+"Blue-green deployment configurado",nao_spam
+"Receba seguro-desemprego especial",spam
+"Rolling update strategy definida",nao_snap
+"Trabalhe transcrevendo áudios",spam
+"Rollback strategy preparada",nao_spam
+"Seu telefone ganhou prêmio de 50 mil",spam
+"Health checks configurados",nao_spam
+"Empréstimo para MEI sem garantias",spam
+"Readiness probe ok",nao_spam
+"Ganhe bicicleta elétrica",spam
+"Liveness probe respondendo",nao_spam
+"Acesse agora bit.ly/3x9KpLm para receber prêmio",spam
+"Reunião confirmada para segunda-feira",nao_spam
+"Clique em goo.gl/dinheiro-facil e ganhe",spam
+"Documentação enviada por e-mail",nao_spam
+"Seu banco pede atualização em bancodobrasil-seguro.tk",spam
+"Código da reunião no Teams enviado",nao_spam
+"Atualize seus dados em caixa-economica.ml",spam
+"Relatório fiscal disponível",nao_spam
+"Urgente acesse receita-federal.ga para evitar multa",spam
+"Ata da reunião compartilhada",nao_spam
+"Valide sua conta em nubank-verificacao.cf",spam
+"Sistema atualizado com sucesso",nao_spam
+"Resgate seu prêmio em megasena-sorteio.gq",spam
+"Arquivo anexado corretamente",nao_spam
+"Confirme em itau-internet.tk ou conta será bloqueada",spam
+"Pull request aprovado",nao_spam
+"Acesse bradesco-atendimento.ml urgente",spam
+"Build finalizado sem erros",nao_spam
+"Clique tinyurl.com/ganhar-dinheiro-rapido",spam
+"Vamos revisar o código amanhã",nao_spam
+"Seu PIX em banco-central.ga precisa confirmação",spam
+"Deploy em homologação concluído",nao_spam
+"Abra bit.do/credito-liberado imediatamente",spam
+"Testes unitários passaram",nao_spam
+"Regularize CPF em serasa-limpa-nome.tk",spam
+"Backup automático executado",nao_spam
+"Ganhe Bitcoin em btc-gratis.ml clique já",spam
+"Servidor reiniciado com sucesso",nao_spam
+"Valide cartão em mastercard-validacao.cf",spam
+"Integração com API funcionando",nao_spam
+"Saque liberado acesse caixa-tem.gq",spam
+"Code review agendado para terça",nao_spam
+"Seu WhatsApp em whatsapp-oficial.tk foi premiado",spam
+"Mensagem do cliente respondida",nao_spam
+"Confirme identidade paypal-seguro.ml",spam
+"Container Docker rodando",nao_spam
+"Clique mercadopago-bonus.ga receba cashback",spam
+"Kubernetes cluster ativo",nao_spam
+"Acesse instagram-verificado.cf para selo azul",spam
+"Cache configurado corretamente",nao_spam
+"Oferta em amazon-promo.tk só hoje",spam
+"Database backup concluído",nao_spam
+"Netflix grátis em netflix-premium.ml",spam
+"Monitoramento de logs ativo",nao_spam
+"Valide em bb-seguros.gq ou perca benefício",spam
+"Pipeline CI/CD funcionando",nao_spam
+"Spotify premium em spotify-free.cf",spam
+"Certificado SSL renovado",nao_spam
+"Confirme em santander-internet.tk urgente",spam
+"API REST documentada",nao_spam
+"Resgate prêmio em sorteios-brasil.ml",spam
+"Elasticsearch indexando",nao_spam
+"Acesse gov-br-auxilio.ga para receber",spam
+"Load balancer configurado",nao_spam
+"Seu FGTS em fgts-saque.tk clique",spam
+"Terraform apply executado",nao_spam
+"Regularize em spc-brasil.ml imediatamente",spam
+"CloudFormation stack criada",nao_spam
+"Ganhe iPhone em apple-sorteio.gq",spam
+"Lambda function deployada",nao_spam
+"Conta Steam em steam-jogos.cf grátis",spam
+"S3 bucket configurado",nao_spam
+"Valide email em microsoft-verificacao.tk",spam
+"RDS instance operacional",nao_spam
+"Crédito em credito-caixa.ml aprovado",spam
+"Auto-scaling configurado",nao_spam
+"Xbox Game Pass em xbox-gratis.ga",spam
+"VPC network criada",nao_spam
+"Confirme compra em magazineluiza-desconto.tk",spam
+"Route53 DNS propagado",nao_spam
+"Resgate cupom em americanas-promocao.ml",spam
+"SQS queue processando",nao_spam
+"Seu pedido em mercadolivre-entrega.cf",spam
+"SNS notifications ativas",nao_spam
+"Validação em aliexpress-brasil.gq necessária",spam
+"DynamoDB table criada",nao_spam
+"Ganhe em shein-gratis.tk clicando",spam
+"CodePipeline executando",nao_spam
+"Confirme em shopee-sorteio.ml",spam
+"Amplify app publicada",nao_spam
+"Resgate em casasbahia-black.ga",spam
+"CloudFront CDN ativo",nao_spam
+"Seu prêmio em pontofrio-cliente.cf",spam
+"Cognito user pool criado",nao_spam
+"Acesse extra-vantagens.tk urgente",spam
+"Secrets Manager configurado",nao_spam
+"Validação em carrefour-bonus.ml",spam
+"EventBridge configurado",nao_spam
+"Clique walmart-desconto.gq agora",spam
+"Glue ETL job rodando",nao_spam
+"Seu benefício em inss-pagamento.tk",spam
+"Athena queries otimizadas",nao_spam
+"Regularize em detran-multas.ml",spam
+"Kinesis stream processando",nao_spam
+"Confirme em eletrobras-tarifa.cf",spam
+"Redshift cluster ativo",nao_spam
+"Desconto em cpfl-energia.ga",spam
+"QuickSight dashboard criado",nao_spam
+"Acesse sabesp-2via.tk para pagar",spam
+"EMR cluster operacional",nao_spam
+"Seu reembolso em receita-restituicao.ml",spam
+"SageMaker model treinado",nao_spam
+"Clique tse-titulo.gq para regularizar",spam
+"Comprehend analysis concluída",nao_spam
+"Validação em cartorio-online.cf",spam
+"Rekognition processando",nao_spam
+"Confirme em poupatempo-sp.tk",spam
+"Polly TTS configurado",nao_spam
+"Acesse renavam-veiculo.ml urgente",spam
+"Lex chatbot deployado",nao_spam
+"Seu IPVA em detran-pagamento.ga",spam
+"Transcribe job finalizado",nao_spam
+"Licenciamento em detran-veiculo.gq",spam
+"Translate API funcionando",nao_spam
+
